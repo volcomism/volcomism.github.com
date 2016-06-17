@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Doc settings
+webrick:
+  headers:
+    what-header: rawr
+
+# Site settings
+title: Volcomism Rants
+email: anthony.a.moreno@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple space for me to rant about nothings and everythings.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://volcomism.github.io"
+twitter_username: rawrthis
+github_username:  volcomism
+
+# Build settings
+markdown: kramdown

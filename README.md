@@ -1,2 +1,0 @@
-
-# volcomism.github.com

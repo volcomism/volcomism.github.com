@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mehcroservices"
+title:  "Blocked"
 date:   2016-06-17 19:30:50 +0200
-categories: mehcroservices
+categories: Blocked
 ---
 
 Not sure exactly what to write here, so instead, I'll add a pony and some cool work in GO.
@@ -151,7 +151,6 @@ func readDockerConfig() error {
 }
 {% endhighlight %}
 
-Check out the [golang][go-lang] and [Jessie Frazelle][jfrazelle] for other fun stuff..
+Check out the [golang][go-lang] and @jfrazelle for other fun stuff..
 
 [go-lang]: https://tour.golang.org/welcome/1
-[jfrazelle]: https://github.com/jfrazelle

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tears in Heaven"
+title:  "Tears"
 date:   2016-06-17 23:10:50 +0200
 categories: music
 ---

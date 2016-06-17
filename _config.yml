@@ -22,6 +22,3 @@ github_username:  volcomism
 
 # Build settings
 markdown: kramdown
-
-# Gems
-gems: [jekyll-youtube]

@@ -1,6 +1,6 @@
 ---
-title: Volcomism Rants
-timezone: UTC
+title: Pookiezie
+timezone: Europe/Berlin
 collections:
   posts:
     title: Posts
@@ -10,12 +10,12 @@ collections:
     output: true
 webrick:
   headers:
-    what-header: rawr
+    pfft-headers: iDontNeedNoStinkinHeaders
 email: anthony.a.moreno@gmail.com
 description: 'A simple space for me to rant about nothings and everythings.
 
 '
-baseurl: ''
+baseurl: 
 url: http://volcomism.github.io
 twitter_username: rawrthis
 github_username: volcomism

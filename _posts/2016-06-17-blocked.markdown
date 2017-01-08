@@ -1,8 +1,9 @@
 ---
+title: Blocked
+date: 2016-06-17 17:30:50 Z
+categories:
+- Blocked
 layout: post
-title:  "Blocked"
-date:   2016-06-17 19:30:50 +0200
-categories: Blocked
 ---
 
 Not sure exactly what to write here, so instead, I'll add a pony and some cool work in GO.
